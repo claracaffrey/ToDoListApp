@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD1A718D2885F69600FF6432 /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1A718C2885F69600FF6432 /* AddToDoViewController.swift */; };
 		BDDFBC2A2881ECA6000CB89D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFBC292881ECA6000CB89D /* AppDelegate.swift */; };
 		BDDFBC2C2881ECA6000CB89D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFBC2B2881ECA6000CB89D /* SceneDelegate.swift */; };
 		BDDFBC312881ECA6000CB89D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDDFBC2F2881ECA6000CB89D /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD1A718C2885F69600FF6432 /* AddToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
 		BDDFBC262881ECA6000CB89D /* ToDoListApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoListApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDDFBC292881ECA6000CB89D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDDFBC2B2881ECA6000CB89D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 		BDDFBC1D2881ECA6000CB89D = {
 			isa = PBXGroup;
 			children = (
+				BD1A718C2885F69600FF6432 /* AddToDoViewController.swift */,
 				BDDFBC282881ECA6000CB89D /* ToDoListApp */,
 				BDDFBC272881ECA6000CB89D /* Products */,
 			);
@@ -148,6 +151,7 @@
 				BDDFBC432881F1EC000CB89D /* ToDo.swift in Sources */,
 				BDDFBC2C2881ECA6000CB89D /* SceneDelegate.swift in Sources */,
 				BDDFBC342881ECA6000CB89D /* ToDoListApp.xcdatamodeld in Sources */,
+				BD1A718D2885F69600FF6432 /* AddToDoViewController.swift in Sources */,
 				BDDFBC412881F165000CB89D /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
